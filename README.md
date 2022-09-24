@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+Alireza+:);Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+Alireza+:);)](https://git.io/typing-svg)
 
 **Alir3zaKazemi/Alir3zaKazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
