@@ -1,11 +1,13 @@
 <!-- HI text -->
+<br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=HI,+I'm+Alireza!+\^o^/;&font=Fira%20Code&center=true&width=380&height=50&duration=2100&pause=2400&color=33e91b">
 </p>
-
+<br>
 
 
 <!-- Social icons section -->
+<p align="center"><strong>Contacts:</strong></p>
 <p align="center">
   <a href="https://t.me/TheSeverusMoriarty"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
