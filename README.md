@@ -1,6 +1,6 @@
 
 <!-- HI text -->
-<br>
+
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Alireza!;A+Beginner+Frontend+Developer+Who+Has+Just+Started+His+Journey;&font=Fira%30Code&center=true&width=800&height=100&duration=4500&pause=1200&color=33e91b">
