@@ -7,11 +7,10 @@
 </p>
 
 
-##  Contact :
+<h2 align="center">Contact :</h2>
 <!-- Social icons section -->
-<!-- <p align="center"><strong>Contacts:</strong></p> -->
 <br>
-<p>
+<p align="center">
   <a href="https://t.me/TheSeverusMoriarty"><img width="39px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
   &#8287;&#8287;
   <a href="https://chatwith.io/s/alireza-2"><img width="39px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png"/></a>
