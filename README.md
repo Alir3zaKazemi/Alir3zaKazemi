@@ -23,3 +23,9 @@
   &#8287;&#8287;
   <a href="https://github.com/Alir3zaKazemi"><img width="39px" alt="Github" title="Github" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png"/></a>
 </p>
+
+
+<h2 align="center">Contact :</h2>
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alir3zaKazemi&theme=dark)](https://git.io/streak-stats)
+![Alir3zaKazemi](https://github-readme-stats.vercel.app/api?username=Alir3zaKazemi&show_icons=true&count_private=true&theme=dark)
