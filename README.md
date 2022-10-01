@@ -7,9 +7,16 @@
 </p>
 
 
+<br><br>
+<h2 align="center">Github stats :</h2>
+<br>
+
+[![Alireza's github stats](https://github-readme-stats.vercel.app/api?username=Alir3zaKazemi&show_icons=true&title_color=07c517e0&icon_color=e49a12e0&text_color=ffffff94&bg_color=151515&count_private=true)](https://github.com/Alir3zaKazemi)
+<br>
+<br>
+<br>
 <h2 align="center">Contact :</h2>
 <!-- Social icons section -->
-<br>
 <p align="center">
   <a href="https://t.me/TheSeverusMoriarty"><img width="39px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
   &#8287;&#8287;
@@ -23,10 +30,3 @@
   &#8287;&#8287;
   <a href="https://github.com/Alir3zaKazemi"><img width="39px" alt="Github" title="Github" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png"/></a>
 </p>
-<br><br>
-<h2 align="center">Github stats :</h2>
-<br>
-
-[![Alireza's github stats](https://github-readme-stats.vercel.app/api?username=Alir3zaKazemi&show_icons=true&title_color=07c517e0&icon_color=e49a12e0&text_color=ffffff94&bg_color=151515&count_private=true)](https://github.com/Alir3zaKazemi)
-
-
