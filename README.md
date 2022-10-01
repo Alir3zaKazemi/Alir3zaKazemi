@@ -7,8 +7,11 @@
 <h2 align="center">Github stats :</h2>
 <br>
 
+<div style="float:center" align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alir3zaKazemi&theme=dark)](https://git.io/streak-stats)
 [![Alireza's github stats](https://github-readme-stats.vercel.app/api?username=Alir3zaKazemi&show_icons=true&title_color=07c517e0&icon_color=e49a12e0&text_color=ffffff94&bg_color=151515&count_private=true)](https://github.com/Alir3zaKazemi)
+</div>
 <br>
 <br>
 <br>
